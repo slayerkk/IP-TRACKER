@@ -1,6 +1,6 @@
 from urllib.request import urlopen
 import sys, os
-
+os.system('clear')
 #cores
 vermelho = '\033[41m'
 verde = '\033[42m'

@@ -1,4 +1,4 @@
-DNS BRUTE
+IP TRACKER
 -
 <span align="center"> 
 
@@ -8,6 +8,19 @@ DNS BRUTE
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/1097881156713730138/1097889622601760768/image.png" width="700px" />
 </div>
+
+IP TRACKER?
+-
+O IP-TRACKER é um script feito em python capaz de localizar IP's de todo o mundo, sites até pessoas, pegando a localização e mostrando o provedor.
+
+pegar ip dos sites
+-
+
+Para pegar o IP de um site, e muito facil, voce precisa apenas digitar "ping www.exemplo.com", ele vai disparar pacotes para o determinado link, assim te retornando o IP do site.
+
+Pegar IP de pessoas
+-
+A várias maneiras de pegar o IP de alguém, mas o IP que precisamos nesse caso é o IPNet, esse é o IP que um site recebe apos você logar nele, com o IP net de alguém, você pode fazer uma consulta no IP-TRACKER, obtendo assim todas as informações.
 
 EXECUTAR
 -

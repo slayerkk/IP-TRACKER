@@ -28,7 +28,7 @@ para executar, execute os comandos a baixo.
 
 git clone https://github.com/slayerkk/IP-TRACKER.git
 
-cd DNSDirectory
+cd IP-TRACKER
 
 python3 IP-TRACKER.py
 
